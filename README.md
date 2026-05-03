@@ -12,7 +12,7 @@ All documents are provided here for convenience in one place. They define the bi
 
 ## Source
 The official distribution of these ICDs can be found on NOAA’s ROC site:  
-👉 [NOAA ROC Interface Control Documents](http://www.test.roc.noaa.gov/interface-control-documents.php)
+👉 [NOAA ROC Interface Control Documents](https://www.roc.noaa.gov/interface-control-documents.php)
 
 ## Usage
 - This repository is intended as a **reference archive** only.  
